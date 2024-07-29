@@ -1,0 +1,15 @@
+@import "./Variables.scss";
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    width: 100%;
+    background: $backdrop;
+}
+
+#root {
+    height: 100%;
+}
